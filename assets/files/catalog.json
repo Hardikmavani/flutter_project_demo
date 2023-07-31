@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro",
+      "desc": "Apple iPhone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "imageUrl": "https://img6.gadgetsnow.com/gd/images/products/additional/large/G133845_View_1/mobiles/smartphones/apple-iphone-12-pro-128-gb-graphite-6-gb-ram-.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pixel 5",
+      "desc": "Google Pixel phone 5th generation",
+      "price": 699,
+      "color": "#00ac51",
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-5-5g.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy A32",
+      "desc": "Galaxy Blue 8GB RAM,128 GB",
+      "price": 799,
+      "color": "#544ee4",
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a32-4g-new.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S22 5G",
+      "desc": "Burgundy, 12GB, 256GB",
+      "price": 1099,
+      "color": "#e3e4e9",
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQq3BdvsTUIqjudsZNL4bi71wYmBtvJdShhWoPqzjcMiJ2tJgv6Hf8HWmMKNdnhDiKLgVh6dng6Nr6v84cgnHXE_61LdZnq"
+    },
+    {
+      "id": 5,
+      "name": "iPad Pro",
+      "desc": "Apple iPad Pro 2020 edition",
+      "price": 1199,
+      "color": "#f73984",
+      "imageUrl": "https://fdn2.mobgsm.com/vv/bigpic/apple-ipad-pro-11-2020.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Airpods Pro",
+      "desc": "Apple Airpods Pro 3rd generation",
+      "price": 1299,
+      "color": "#f73984",
+      "imageUrl": "https://m.media-amazon.com/images/I/71fkE5LBc+L._SX522_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy S21 FE 5G",
+      "desc": "Samsung Galaxy S21 2021 edition",
+      "price": 555,
+      "color": "#f73984",
+      "imageUrl": "https://m.media-amazon.com/images/I/8131pwAojZL._SX522_.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy Ultra",
+      "desc": "Samsung Galaxy Ultra 2021 edition",
+      "price": 555,
+      "color": "#f73984",
+      "imageUrl": "https://images.samsung.com/in/smartphones/galaxy-s23-ultra/buy/product_color_red.png?imwidth=480"
+    }
+  ]
+}
